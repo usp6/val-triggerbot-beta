@@ -1,3 +1,5 @@
+<div align="center">
+
 # Slate Beta 🔷
 
 ### The Future of Driverless Triggerbots - Undetected, Ultra-Fast, Completely Transparent
@@ -216,3 +218,4 @@ Slate is a **color detection accessibility tool** designed for:
 ---
 
 *Made with ❤️ by slate for the automation community*
+<div align="center">
