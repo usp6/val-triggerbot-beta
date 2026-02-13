@@ -1,5 +1,3 @@
-<div align="center">
-
 # Slate Beta 🔷
 
 ### The Future of Driverless Triggerbots - Undetected, Ultra-Fast, Completely Transparent
@@ -11,7 +9,7 @@
 ![Driver](https://img.shields.io/badge/Driverless-Yes-orange)
 
 ---
-<div align="center">
+
 ## ⚡ **INTRODUCING SLATE BETA**
 
 **Slate** isn't just another triggerbot—it's a complete reimagining of what color detection automation can be. Built from the ground up for **absolute minimal latency** and **maximum undetectability**, Slate operates entirely in userspace with zero kernel drivers, zero injected DLLs, and zero suspicious API calls.
